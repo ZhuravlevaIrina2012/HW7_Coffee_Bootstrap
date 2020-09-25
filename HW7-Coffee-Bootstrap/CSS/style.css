@@ -1,0 +1,60 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Raleway', sans-serif;
+}
+
+header{
+    box-sizing: border-box;
+    height: 25rem;
+    background-image: url("../Images/cofee.jpg");
+    background-position: center;
+}
+
+
+h1{
+    font-size: 6rem;
+    font-family: 'Covered By Your Grace', cursive;
+    color: #fffddf;
+}
+
+h2{
+    font-weight: 600;
+    font-size: 1.75rem;
+    background-color: #aa8eb5;
+}
+
+main div > p{
+    color: #444;
+    font-size: 1.25em;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+a:link {
+    color: #214e34;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+a:visited{
+    color: violet;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color: yellow;
+}
+
+footer{
+    background-color: #84688f;
+    height: 3em;
+}
+
+footer > p{
+    font-weight: 500;
+    font-size: 1em;
+    color: #fffddf;
+}
